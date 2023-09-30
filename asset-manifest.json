@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weatherCall/static/css/main.dfd33359.css",
+    "main.js": "/weatherCall/static/js/main.5b70bf31.js",
+    "static/media/wp12610562-blue-forest-4k-wallpapers.jpg": "/weatherCall/static/media/wp12610562-blue-forest-4k-wallpapers.b27a71df97be35b7cb4a.jpg",
+    "index.html": "/weatherCall/index.html",
+    "main.dfd33359.css.map": "/weatherCall/static/css/main.dfd33359.css.map",
+    "main.5b70bf31.js.map": "/weatherCall/static/js/main.5b70bf31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd33359.css",
+    "static/js/main.5b70bf31.js"
+  ]
+}
